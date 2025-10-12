@@ -1,2 +1,5 @@
-# dnd5e-player-primer
-For players of my D&amp;D sessions
+<img src="source/_assets/images/pp.png" width="100px"/>
+
+# D&D 5E Player Primer
+
+> For players of my D&D sessions
