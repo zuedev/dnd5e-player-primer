@@ -4,21 +4,27 @@
 
 When making your character on D&D Beyond, please follow these guidelines:
 
-- **Sources:** All
-- **Partnered Content:** All
-- **Enable Dice Rolling:** Optional, but recommended
-- **Optional Features**
-  - **Optional Class Features:** Allowed
-  - **Customize Your Origin:** Allowed
-- **Advancement Type:** Milestone
-- **Hit Point Type:** Fixed or gamble (rolled by DM)
-- **Use Prerequisites**
-  - **Feats:** Enabled
-  - **Multiclass Requirements:** Enabled
-- **Encumbrance Type:** Variant Encumbrance
-- **Ignore Coin Weight:** Disabled
-- **Ability Score/Modifier Display:** Optional, but recommended "Modifiers Top"
-- **Character Privacy:** Recommended "Public", but "Campaign Only" is acceptable, "Private" is not allowed
+- **Home**
+  - **Sources:** All
+  - **Partnered Content:** All
+  - **Enable Dice Rolling:** Optional, but recommended
+  - **Optional Features**
+    - **Optional Class Features:** Allowed
+    - **Customize Your Origin:** Allowed
+  - **Advancement Type:** Milestone
+  - **Hit Point Type:** Fixed or gamble (rolled by DM)
+  - **Use Prerequisites**
+    - **Feats:** Enabled
+    - **Multiclass Requirements:** Enabled
+  - **Encumbrance Type:** Variant Encumbrance
+  - **Ignore Coin Weight:** Disabled
+  - **Ability Score/Modifier Display:** Optional, but recommended "Modifiers Top"
+  - **Character Privacy:** Recommended "Public", but "Campaign Only" is acceptable, "Private" is not allowed
+- **Class:** No restrictions
+- **Background:** No restrictions, just make sure to fill out the "Character Details", "Physical Characteristics", "Personal Characteristics" sections along with including your backstory in the "Notes" section.
+- **Species:** No restrictions
+- **Abilities:** Point Buy is recommended, but Standard Array or Manual (rolled by DM) are also allowed
+- **Equipment:** Consult the DM!
 
 ## Additional, Optional, & Variant Rules
 
