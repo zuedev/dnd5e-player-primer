@@ -4,16 +4,21 @@
 
 When making your character on D&D Beyond, please follow these guidelines:
 
-| Setting               | Value                                                        |
-| --------------------- | ------------------------------------------------------------ |
-| Allowed Sources       | All sources, excluding Rick and Morty and Minecraft content. |
-| Optional Features     | Allowed                                                      |
-| Customize Your Origin | Allowed                                                      |
-| Advancement Type      | Milestone                                                    |
-| Hit Point Type        | Fixed or gamble (rolled by DM)                               |
-| Use Prerequisites     | Disabled                                                     |
-| Encumbrance           | Variant                                                      |
-| Ignore Coin Weight    | Disabled                                                     |
+- **Sources:** All
+- **Partnered Content:** All
+- **Enable Dice Rolling:** Optional, but recommended
+- **Optional Features**
+  - **Optional Class Features:** Allowed
+  - **Customize Your Origin:** Allowed
+- **Advancement Type:** Milestone
+- **Hit Point Type:** Fixed or gamble (rolled by DM)
+- **Use Prerequisites**
+  - **Feats:** Enabled
+  - **Multiclass Requirements:** Enabled
+- **Encumbrance Type:** Variant Encumbrance
+- **Ignore Coin Weight:** Disabled
+- **Ability Score/Modifier Display:** Optional, but recommended "Modifiers Top"
+- **Character Privacy:** Recommended "Public", but "Campaign Only" is acceptable, "Private" is not allowed
 
 ## Additional, Optional, & Variant Rules
 
