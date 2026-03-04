@@ -69,3 +69,29 @@ Getting a critical success on initiative rolls grants an additional action on yo
 ### A Hero's End
 
 When a character dies, they can choose to have a hero's end. This allows them to make a final special action before they die. This action cannot be used to heal themselves or save themselves from death. It can be used to save another character, deal a final blow to an enemy, or any other heroic action they wish to take. When they take this action, they waive rolling death saving throws and die at the end of their action.
+
+### The Last Stand
+
+If all other player characters are unconscious or dead, a character can choose to make a last stand. During this:
+
+- You cannot regain hit points, gain temporary hit points, or gain a new hit-point pool.
+- You cannot dodge, disengage, dash, hide, or take any action or spell that would prevent enemies from targeting you or reaching you.
+- On your turn, if you are able to attack or cast a spell at an enemy, you must do so.
+- Your first attack each turn has advantage.
+- Your critical attack threshold is lowered by 2 (so if you normally crit on a 20, you would crit on an 18 or higher).
+- Once per turn, the lowest primary damage dice of one weapon or spell attack is maximized. For example, if you have a weapon that does 1d8 damage, you would deal 8 damage instead of rolling the die. If you have a spell that does 3d6 damage and roll a 4, 2, and 5, the 2 would be maximized to a 6, so you would deal 4 + 6 + 5 = 15 damage instead of 11.
+- Once per last stand, you can cast one spell you know without expending a spell slot.
+
+When you reach 0 hit points during a last stand, you remain conscious and continue to fight until the end of combat or until you take damage that would reduce you to negative hit points equal to your maximum hit points (for example, if you have 40 maximum hit points, you would die and the last stand would end if you take damage that would reduce you to -40 hit points or lower).
+
+When combat ends, you die if you are at 0 hit points or lower without the ability to roll death saves, but if you are above 0 hit points, you survive with 1 hit point but gain 3 levels of exhaustion. You can only survive one last stand per character per campaign, and if you survive a last stand, you cannot make another one.
+
+When a last stand is declared, the DM secretly records every damage roll against you; you are not told your current hit points or when you reach 0 hit points. At the end of combat, the DM reveals how much damage you took and if you survived or not. If you survive, you are left with 1 hit point and gain the following feat:
+
+> **Sole Survivor**
+>
+> _Prerequisite: Survived a Last Stand_
+>
+> You have survived a Last Stand against overwhelming odds. You now have advantage on death saving throws until you die, upon which you lose this feat.
+>
+> Additionally, you are haunted by the memories of your last stand. When you take damage, you must make a DC 10 Wisdom saving throw. On a failed save, you must use your reaction to make a melee weapon attack or cast a damaging spell against the source of the damage or nearest creature if the source is either not a creature or is out of range. The attack is made with your highest attack bonus and uses your highest damage die, but does not add any modifiers to the attack or damage rolls. If you have multiple attacks, you can choose which one to use for this reaction.
