@@ -43,6 +43,10 @@ Getting a critical failure on initiative rolls means you must act last in the fi
 
 When a character dies, they can choose to have a hero's end. This allows them to make a final special action before they die. This action cannot be used to heal themselves or save themselves from death. It can be used to save another character, deal a final blow to an enemy, or any other heroic action they wish to take. When they take this action, they waive rolling death saving throws and die at the end of their action.
 
+### Flashback
+
+Once per session, a player may declare a flashback to establish that their character prepared something in advance. They briefly narrate the preparation scene, then make a relevant ability check. On a success, the preparation pays off; on a failure, it went wrong in some way the DM decides.
+
 ## Allowed Additional, Optional, & Variant Rules
 
 The following optional and variant rules are allowed in this campaign. Please consult the DM for any questions regarding these rules.
