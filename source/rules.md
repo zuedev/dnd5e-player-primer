@@ -51,6 +51,10 @@ Once per session, a player may declare a flashback to establish that their chara
 
 Before making an attack roll, a creature may declare a called shot, targeting a specific body part. On a hit, the attack deals normal damage and applies an additional effect based on the targeted location (e.g., blinded on a head shot, reduced speed on a leg shot). Called shots are made at disadvantage unless the attacker has a feature that negates this.
 
+### Named Weapons
+
+A weapon that has dealt the killing blow to a significant enemy or been carried through a pivotal moment may be named by its wielder. Named weapons gain one minor property chosen from a short list (e.g., returns to hand when thrown, glows faintly in the dark, always stays clean). A character may only have one named weapon at a time.
+
 ## Allowed Additional, Optional, & Variant Rules
 
 The following optional and variant rules are allowed in this campaign. Please consult the DM for any questions regarding these rules.
