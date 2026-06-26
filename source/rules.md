@@ -53,7 +53,18 @@ Once per session, a player may declare a flashback to establish that their chara
 
 ### Called Shots
 
-Before making an attack roll, a creature may declare a called shot, targeting a specific body part. On a hit, the attack deals normal damage and applies an additional effect based on the targeted location (e.g., blinded on a head shot, reduced speed on a leg shot). Called shots are made at disadvantage unless the attacker has a feature that negates this.
+Before making an attack roll, a creature may declare a called shot targeting a specific body part. Called shots are made at disadvantage unless the attacker has a feature that negates this. On a hit, the attack deals normal damage and the target must make a saving throw or suffer an additional effect.
+
+The following effects apply to typical humanoids. The DM may adapt them for creatures with unusual anatomy.
+
+| Target | Save         | DC  | Effect on Failure                                                                  |
+| ------ | ------------ | --- | ---------------------------------------------------------------------------------- |
+| Head   | Constitution | 15  | Stunned until the end of its next turn                                             |
+| Eyes   | Constitution | 13  | Blinded until the end of its next turn                                             |
+| Throat | Constitution | 13  | Cannot speak or cast spells with a verbal component until the end of its next turn |
+| Arm    | Strength     | 13  | Drops one held item of the attacker's choice                                       |
+| Leg    | Dexterity    | 13  | Speed is halved until the end of its next turn                                     |
+| Foot   | Strength     | 13  | Knocked prone                                                                      |
 
 ### Named Weapons
 
