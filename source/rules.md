@@ -39,6 +39,10 @@ Getting a critical success on initiative rolls grants an additional action on yo
 
 Getting a critical failure on initiative rolls means you must act last in the first round. This cannot be challenged, and you must wait until all other creatures have acted before taking your turn. If multiple creatures roll critical failures, they act in regular initiative order after all other creatures have acted.
 
+### Last Stand
+
+When a character is the only conscious member of their party, they gain temporary hit points equal to their level at the start of each of their turns. These expire when another party member regains consciousness.
+
 ### A Hero's End
 
 When a character dies, they can choose to have a hero's end. This allows them to make a final special action before they die. This action cannot be used to heal themselves or save themselves from death. It can be used to save another character, deal a final blow to an enemy, or any other heroic action they wish to take. When they take this action, they waive rolling death saving throws and die at the end of their action.
