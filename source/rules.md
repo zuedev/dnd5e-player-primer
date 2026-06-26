@@ -47,6 +47,10 @@ When a character dies, they can choose to have a hero's end. This allows them to
 
 Once per session, a player may declare a flashback to establish that their character prepared something in advance. They briefly narrate the preparation scene, then make a relevant ability check. On a success, the preparation pays off; on a failure, it went wrong in some way the DM decides.
 
+### Called Shots
+
+Before making an attack roll, a creature may declare a called shot, targeting a specific body part. On a hit, the attack deals normal damage and applies an additional effect based on the targeted location (e.g., blinded on a head shot, reduced speed on a leg shot). Called shots are made at disadvantage unless the attacker has a feature that negates this.
+
 ## Allowed Additional, Optional, & Variant Rules
 
 The following optional and variant rules are allowed in this campaign. Please consult the DM for any questions regarding these rules.
