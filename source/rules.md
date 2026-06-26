@@ -35,7 +35,9 @@ At the end of the round, the last creature to act chooses who opens the next rou
 
 ### Critical Initiative
 
-Getting a critical success on initiative rolls grants an additional action on your first turn.
+Getting a critical success on initiative rolls grants an additional action on your first turn and allows you to act first in the first round. Roll with advantage if you are challenged for initiative, and if you roll a critical success again, you may take another action on your first turn resulting in a total of 3 actions on your first turn.
+
+Getting a critical failure on initiative rolls means you must act last in the first round. This cannot be challenged, and you must wait until all other creatures have acted before taking your turn. If multiple creatures roll critical failures, they act in regular initiative order after all other creatures have acted.
 
 ### A Hero's End
 
