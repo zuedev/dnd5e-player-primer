@@ -62,6 +62,16 @@ The following optional and variant rules are being used:
 
 ## Homebrew Rules
 
+### Popcorn Initiative
+
+At the start of combat, everyone rolls initiative as normal to determine who goes first.
+
+After a creature takes its turn, it chooses who acts next from among creatures that have not yet taken a turn this round.
+
+Between turns, any participant may use their **Reaction** to challenge the chosen order. All challengers roll initiative against the chosen creature; the highest result acts next.
+
+At the end of the round, the last creature to act chooses who opens the next round, including themselves. This choice counts as the first selection of the new round and may be challenged as normal.
+
 ### Critical Initiative
 
 Getting a critical success on initiative rolls grants an additional action on your first turn.
