@@ -23,7 +23,7 @@ When making your character on D&D Beyond, please follow these guidelines:
 - **Class:** No restrictions
 - **Background:** No restrictions, just make sure to fill out the "Character Details", "Physical Characteristics", "Personal Characteristics" sections along with including your backstory in the "Notes" section.
 - **Species:** No restrictions
-- **Abilities:** Point Buy is recommended, but Standard Array or Manual (rolled by DM) are also allowed.
+- **Abilities:** Point Buy is recommended, but Standard Array or Manual (rolled by DM) are also allowed. Don't forget to include Honour and Sanity scores!
 - **Equipment:** Consult the DM!
 
 ## Homebrew Rules
