@@ -23,12 +23,32 @@ When making your character on D&D Beyond, please follow these guidelines:
 - **Class:** No restrictions
 - **Background:** No restrictions, just make sure to fill out the "Character Details", "Physical Characteristics", "Personal Characteristics" sections along with including your backstory in the "Notes" section.
 - **Species:** No restrictions
-- **Abilities:** Point Buy is recommended, but Standard Array or Manual (rolled by DM) are also allowed
+- **Abilities:** Point Buy is recommended, but Standard Array or Manual (rolled by DM) are also allowed.
 - **Equipment:** Consult the DM!
 
-## Additional, Optional, & Variant Rules
+## Homebrew Rules
 
-The following optional and variant rules are being used:
+### Popcorn Initiative
+
+At the start of combat, everyone rolls initiative as normal to determine who goes first.
+
+After a creature takes its turn, it chooses who acts next from among creatures that have not yet taken a turn this round.
+
+Between turns, any participant may use their **Reaction** to challenge the chosen order. All challengers roll initiative against the chosen creature; the highest result acts next.
+
+At the end of the round, the last creature to act chooses who opens the next round, including themselves. This choice counts as the first selection of the new round and may be challenged as normal.
+
+### Critical Initiative
+
+Getting a critical success on initiative rolls grants an additional action on your first turn.
+
+### A Hero's End
+
+When a character dies, they can choose to have a hero's end. This allows them to make a final special action before they die. This action cannot be used to heal themselves or save themselves from death. It can be used to save another character, deal a final blow to an enemy, or any other heroic action they wish to take. When they take this action, they waive rolling death saving throws and die at the end of their action.
+
+## Allowed Additional, Optional, & Variant Rules
+
+The following optional and variant rules are allowed in this campaign. Please consult the DM for any questions regarding these rules.
 
 - [🐉 Action Options](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#ActionOptions)
 - [🐉 Adamantine Weapons](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#AdamantineWeapons)
@@ -59,23 +79,3 @@ The following optional and variant rules are being used:
 - [🐉 Spellcasting](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Spellcasting)
 - [🐉 Tool Proficiencies](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#ToolProficiencies)
 - [🐉 Tying Knots](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#TyingKnots)
-
-## Homebrew Rules
-
-### Popcorn Initiative
-
-At the start of combat, everyone rolls initiative as normal to determine who goes first.
-
-After a creature takes its turn, it chooses who acts next from among creatures that have not yet taken a turn this round.
-
-Between turns, any participant may use their **Reaction** to challenge the chosen order. All challengers roll initiative against the chosen creature; the highest result acts next.
-
-At the end of the round, the last creature to act chooses who opens the next round, including themselves. This choice counts as the first selection of the new round and may be challenged as normal.
-
-### Critical Initiative
-
-Getting a critical success on initiative rolls grants an additional action on your first turn.
-
-### A Hero's End
-
-When a character dies, they can choose to have a hero's end. This allows them to make a final special action before they die. This action cannot be used to heal themselves or save themselves from death. It can be used to save another character, deal a final blow to an enemy, or any other heroic action they wish to take. When they take this action, they waive rolling death saving throws and die at the end of their action.
