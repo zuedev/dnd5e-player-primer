@@ -2,29 +2,24 @@
 
 ## Character Creation
 
-When making your character on D&D Beyond, please follow these guidelines:
+Please follow these guidelines when creating your character:
 
-- **Home**
-  - **Sources:** All
-  - **Partnered Content:** All
-  - **Enable Dice Rolling:** Optional, but recommended
-  - **Optional Features**
-    - **Optional Class Features:** Allowed
-    - **Customize Your Origin:** Allowed
-  - **Advancement Type:** Milestone
-  - **Hit Point Type:** Fixed or gamble (rolled by DM)
-  - **Use Prerequisites**
-    - **Feats:** Enabled
-    - **Multiclass Requirements:** Enabled
-  - **Encumbrance Type:** Variant Encumbrance
-  - **Ignore Coin Weight:** Disabled
-  - **Ability Score/Modifier Display:** Optional, but recommended "Modifiers Top"
-  - **Character Privacy:** Recommended "Public", but "Campaign Only" is acceptable, "Private" is not allowed
+- **Content:** All official and partnered content is allowed
+- **Optional Features**
+  - **Optional Class Features:** Allowed
+  - **Customize Your Origin:** Allowed
+- **Advancement:** Milestone
+- **Hit Points:** Fixed, or rolled by the DM
+- **Prerequisites**
+  - **Feats:** Prerequisites required
+  - **Multiclassing:** Ability score prerequisites required
+- **Encumbrance:** Variant Encumbrance rules apply; coin weight is not ignored
 - **Class:** No restrictions
-- **Background:** No restrictions, just make sure to fill out the "Character Details", "Physical Characteristics", "Personal Characteristics" sections along with including your backstory in the "Notes" section.
+- **Background:** No restrictions; make sure to fill out your character details, physical characteristics, personal characteristics, and backstory
 - **Species:** No restrictions
-- **Abilities:** Point Buy is recommended, but Standard Array or Manual (rolled by DM) are also allowed. Don't forget to include Honour and Sanity scores!
-- **Equipment:** Consult the DM!
+- **Abilities:** Point Buy is recommended, but Standard Array or Manual (rolled by DM) are also allowed; don't forget to include Honour and Sanity scores!
+- **Equipment:** Starting equipment or starting gold is allowed; starting gold is determined by the DM depending on the campaign setting and starting level.
+  - Levelled characters usually start with gold calculated as `GP = 25,000 / (1 + e^(-0.5 * (L - 10)))`, where L is the starting level, rounded to the nearest 50gp.
 
 ## Homebrew Rules
 
