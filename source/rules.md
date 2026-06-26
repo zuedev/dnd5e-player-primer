@@ -68,7 +68,16 @@ The following effects apply to typical humanoids. The DM may adapt them for crea
 
 ### Named Weapons
 
-A weapon that has dealt the killing blow to a significant enemy or been carried through a pivotal moment may be named by its wielder. Named weapons gain one minor property chosen from a short list (e.g., returns to hand when thrown, glows faintly in the dark, always stays clean). A character may only have one named weapon at a time.
+A weapon that has dealt the killing blow to a significant enemy or been carried through a pivotal moment may be named by its wielder. Named weapons gain one minor property chosen from the list below. A character may only have one named weapon at a time.
+
+- **Returning** — when thrown, the weapon returns to the wielder's hand immediately after the attack
+- **Luminous** — sheds dim light in a 5-foot radius on command (no action required)
+- **Ever-Clean** — never rusts, dulls, chips, or becomes dirty; always appears in perfect condition
+- **Unbreakable** — cannot be broken, sundered, or destroyed by non-magical means
+- **Bonded** — if lost or stolen, the wielder always knows the general direction of the weapon
+- **Warm** — radiates gentle heat; the wielder cannot suffer the effects of extreme cold while holding it
+- **Resonant** — hums faintly when a specific creature type (chosen when named) is within 60 feet
+- **Storied** — creatures that have heard of the weapon's deeds are aware of its name and history upon seeing it
 
 ## Allowed Additional, Optional, & Variant Rules
 
